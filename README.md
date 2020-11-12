@@ -6,10 +6,8 @@ Implementing the :
 
 i) Greedy Algorithm
 
-ii) Global Path Algorithm(GPA)
+ii) Drake-Hougardy's Matching Algorithm
 
-iii) Drake-Hougardy's Matching Algorithm
+iii) Edmond's Matching Algorithm
 
-iv) Pettie-Sanders Matching Algorithm
-
-v) Edmonds Matching Algorithm
+iv) Cunningham and Marsh 
