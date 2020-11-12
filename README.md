@@ -9,5 +9,3 @@ i) Greedy Algorithm
 ii) Drake-Hougardy's Matching Algorithm
 
 iii) Edmond's Matching Algorithm
-
-iv) Cunningham and Marsh 
