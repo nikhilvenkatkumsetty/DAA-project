@@ -1,6 +1,6 @@
 IT300 Mini Project (November 2020)
 
-Implemented different approximation algorithms for Maximum Weight Matching(MWM) Problem in Java
+Implemented different approximation algorithms for Maximum Weight Matching(MWM) Problem in python
 
 Implementing the :
 
